@@ -35,7 +35,7 @@ For all the air cooled variants of these designs I'd suggest fans in a push-pull
 
 - Back I/O connectivity:
 
-For connectivity I was thinking 4-6 QSFP-DD ports, able to support anywhere from 100GbE to 800GbE by simple swapping out the transceiver, making serviceability easy and fast in the event of a port failing.
+For connectivity I was thinking 4-6 QSFP-DD ports, able to support anywhere from 100GbE to 800GbE by simply swapping out the transceiver, making serviceability easy and fast in the event of a port failing.
 
 Links:
 - Seagate Exos EX4U74: https://www.seagate.com/it/it/products/data-storage-systems/scale/ex4u74/?store=1
