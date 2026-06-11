@@ -1,6 +1,8 @@
 # High-density-JBOF-server-racks-concept-for-AI-and-Hyperscalers
 Concept for high density JBOF units to be used in AI datacenters and by hyperscalers.
-Publishing date: 10/06/2026
+
+Publishing date: 10/06/2026                     
+Last updated: 11/06/2026
 
 Small disclaimer:
 I don't know if this is possible yet.
@@ -36,6 +38,10 @@ For all the air cooled variants of these designs I'd suggest fans in a push-pull
 - Back I/O connectivity:
 
 For connectivity I was thinking 4-6 QSFP-DD ports, able to support anywhere from 100GbE to 800GbE by simply swapping out the transceiver, making serviceability easy and fast in the event of a port failing.
+
+<img width="1195" height="798" alt="image" src="https://github.com/user-attachments/assets/abdec651-34a4-4906-b467-c58e060ce402" />
+
+*Sketch of the 1U sideplane design, made with diagrams.net (draw.io). Temporary measure as I'm trying to make a proper model.*
 
 Links:
 - Seagate Exos EX4U74: https://www.seagate.com/it/it/products/data-storage-systems/scale/ex4u74/?store=1
