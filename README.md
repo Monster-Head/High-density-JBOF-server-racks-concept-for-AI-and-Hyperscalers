@@ -39,7 +39,7 @@ For all the air cooled variants of these designs I'd suggest fans in a push-pull
 
 For connectivity I was thinking 4-6 QSFP-DD ports, able to support anywhere from 100GbE to 800GbE by simply swapping out the transceiver, making serviceability easy and fast in the event of a port failing.
 
-<img width="1195" height="798" alt="image" src="https://github.com/user-attachments/assets/abdec651-34a4-4906-b467-c58e060ce402" />
+<img width="1178" height="795" alt="image" src="https://github.com/user-attachments/assets/5bb86759-549c-4602-ad9b-bae1260d4905" />
 
 *Sketch of the 1U sideplane design, made with diagrams.net (draw.io). Temporary measure as I'm trying to make a proper model.*
 
