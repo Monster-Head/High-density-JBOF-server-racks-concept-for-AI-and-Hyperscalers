@@ -2,11 +2,11 @@
 Concept for high density JBOF units to be used in AI datacenters and by hyperscalers.
 
 Publishing date: 10/06/2026                     
-Last updated: 11/06/2026
+Last updated: 20/06/2026
 
 Small disclaimer:
 I don't know if this is possible yet.
-I'm not an electronical engineer, if any electronical engineer reads this he/she can explain why this would or wouldn't work.
+I'm not an engineer in his field, if any engineer reads this he/she can explain why this would or wouldn't work in the "Discussions" tab.
 
 This concept is designed to help AI datacenters and Hyperscalers with their growing needs of storage but also efficiency in both power and reducing water consumption.
 - Core:
