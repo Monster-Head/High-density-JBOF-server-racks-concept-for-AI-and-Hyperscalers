@@ -4,7 +4,7 @@ Concept for high density JBOF units to be used in AI datacenters and by hypersca
 ---------
 
 Publishing date: 10/06/2026                     
-Last updated: 20/06/2026
+Last updated: 30/06/2026
 
 ---------
 
