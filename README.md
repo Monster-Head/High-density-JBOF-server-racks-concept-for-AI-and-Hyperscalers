@@ -1,12 +1,20 @@
 # High-density-JBOF-server-racks-concept-for-AI-and-Hyperscalers
 Concept for high density JBOF units to be used in AI datacenters and by hyperscalers.
 
+---------
+
 Publishing date: 10/06/2026                     
 Last updated: 20/06/2026
 
-Small disclaimer:
+---------
+
+**Disclaimer:
 I don't know if this is possible yet.
-I'm not an engineer in his field, if any engineer reads this he/she can explain why this would or wouldn't work in the "Discussions" tab.
+I'm not an engineer in his field, if any engineer reads this he/she can explain why this would or wouldn't work in the "Discussions" tab.**
+
+**All trademarks, product names, and brands referenced (Solidigm, Supermicro, etc.) belong to their respective owners. This project is unaffiliated and non-commercial.**
+
+---------
 
 This concept is designed to help AI datacenters and Hyperscalers with their growing needs of storage but also efficiency in both power and reducing water consumption.
 - Core:
@@ -42,6 +50,8 @@ For connectivity I was thinking 4-6 QSFP-DD ports, able to support anywhere from
 <img width="1178" height="795" alt="image" src="https://github.com/user-attachments/assets/5bb86759-549c-4602-ad9b-bae1260d4905" />
 
 *Sketch of the 1U sideplane design, made with diagrams.net (draw.io). Temporary measure as I'm trying to make a proper model.*
+
+---------
 
 Links:
 - Seagate Exos EX4U74: https://www.seagate.com/it/it/products/data-storage-systems/scale/ex4u74/?store=1
